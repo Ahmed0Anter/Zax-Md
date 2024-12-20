@@ -21,7 +21,7 @@
     "required" :true
     },
     "BOT_NAME": {
-      "description": " NAME FOR BOT",
+      "description": " ZAX",
       "required" :false,    
       "value": "zᴀx ᴍᴅ"
     }, 
@@ -31,7 +31,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comm \",\")",
-      "value": "255688950205"
+      "value": "201020255763"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -40,7 +40,7 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "USER_IMAGES": {
       "description": "Image for bot",
